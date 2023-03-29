@@ -1,6 +1,3 @@
-پکیج 
-react-icons
-رو نصب کن...
 
-
-میتونی عکس پروژه رو توی فایل templateببینی
+Install the react bootstrap package.
+-
